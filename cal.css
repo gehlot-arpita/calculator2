@@ -1,0 +1,20 @@
+.table
+{
+border-color:grey;
+border-width:15px;
+font-size:20px;
+}
+td
+{
+	cursor:pointer;
+}
+td:hover
+{
+	box-shadow:8px 8px 8px black;
+}
+.num
+{
+height:40px;
+width:300px;
+font-size:20px;
+}
